@@ -1,0 +1,90 @@
+{
+  "Version": "0.1",
+  "HashValue": "hhhhh",
+  "SDLApps": [
+    {
+      "AppId": "323229106",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "",
+      "AppURLScheme": "Waze"
+    },
+    {
+      "AppId": "290638154",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "com.paperless.iheart",
+      "AppURLScheme": "iHeartRadio"
+    },
+    {
+      "AppId": "1251992029",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "",
+      "AppURLScheme": "Livio Music"
+    },
+    {
+      "AppId": "966142320",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "",
+      "AppURLScheme": "Line Music"
+    },
+    {
+      "AppId": "300048137",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "",
+      "AppURLScheme": "AccuWeather"
+    },
+    {
+      "AppId": "825750395",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "",
+      "AppURLScheme": "CitySeeker"
+    },
+    {
+      "AppId": "330316698",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "com.glympse.android.glympse",
+      "AppURLScheme": "Glympse"
+    },
+    {
+      "AppId": "820326185",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "",
+      "AppURLScheme": "Sygic Car Navigation"
+    },
+    {
+      "AppId": "694588796",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "com.hearmeout",
+      "AppURLScheme": "HearMeOut"
+    },
+    {
+      "AppId": "284035177",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "com.pandora.android",
+      "AppURLScheme": "Pandora"
+    },
+    {
+      "AppId": "298307011",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "",
+      "AppURLScheme": "Slaker Radio"
+    },
+    {
+      "AppId": "907383542",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "",
+      "AppURLScheme": "Dash Radio"
+    },
+    {
+      "AppId": "321934718",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "",
+      "AppURLScheme": "Wetter.de"
+    },
+    {
+      "AppId": "327359689",
+      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppPackageName": "com.creativeDNA.ntvuganda",
+      "AppURLScheme": "NTV"
+    }
+  ]
+}

@@ -4,16 +4,16 @@
   "SDLApps": [
     {
       "AppId": "323229106",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "com.waze.iphone",
       "AppPackageName": "",
-      "AppURLScheme": "Waze",
+      "AppURLScheme": "waze",
       "AppName": "Waze"
     },
     {
       "AppId": "290638154",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "com.clearchannel.iheartradio",
       "AppPackageName": "com.paperless.iheart",
-      "AppURLScheme": "iHeartRadio",
+      "AppURLScheme": "com.clearchannel.iheartradio",
       "AppName": "iHeartRadio"
     },
     {

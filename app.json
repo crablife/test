@@ -6,7 +6,7 @@
       "AppId": "323229106",
       "AppBundleId": "com.waze.iphone",
       "AppPackageName": "",
-      "AppURLScheme": "waze",
+      "AppURLScheme": "com.waze.iphone",
       "AppName": "Waze"
     },
     {
@@ -32,9 +32,9 @@
     },
     {
       "AppId": "300048137",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "com.yourcompany.TestWithCustomTabs",
       "AppPackageName": "",
-      "AppURLScheme": "AccuWeather",
+      "AppURLScheme": "accuweatherapp",
       "AppName": "AccuWeather"
     },
     {
@@ -46,23 +46,23 @@
     },
     {
       "AppId": "330316698",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "com.glympse.iphone.glympse",
       "AppPackageName": "com.glympse.android.glympse",
-      "AppURLScheme": "Glympse",
+      "AppURLScheme": "glympse",
       "AppName": "Glympse"
     },
     {
       "AppId": "820326185",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "com.sygic.incar",
       "AppPackageName": "",
-      "AppURLScheme": "Sygic Car Navigation",
+      "AppURLScheme": "com.sygic.incar",
       "AppName": "Sygic Car Navigation"
     },
     {
       "AppId": "694588796",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "com.hmo.HearMeOut",
       "AppPackageName": "com.hearmeout",
-      "AppURLScheme": "HearMeOut",
+      "AppURLScheme": "hearmeout",
       "AppName": "HearMeOut"
     },
     {

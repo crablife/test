@@ -69,7 +69,7 @@
       "AppId": "284035177",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "com.pandora.android",
-      "AppURLScheme": "Pandora",
+      "AppURLScheme": "",
       "AppName": "Pandora"
     },
     {
@@ -97,7 +97,7 @@
       "AppId": "327359689",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "com.creativeDNA.ntvuganda",
-      "AppURLScheme": "NTV",
+      "AppURLScheme": "",
       "AppName": "NTV"
     }
   ]

@@ -1,104 +1,133 @@
 {
   "Version": "0.1",
   "HashValue": "hhhhh",
+  "Locale": "tw",
   "SDLApps": [
     {
       "AppId": "323229106",
       "AppBundleId": "com.waze.iphone",
       "AppPackageName": "",
       "AppURLScheme": "com.waze.iphone",
-      "AppName": "Waze"
+      "AppName": "Waze",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "290638154",
       "AppBundleId": "com.clearchannel.iheartradio",
       "AppPackageName": "com.paperless.iheart",
       "AppURLScheme": "com.clearchannel.iheartradio",
-      "AppName": "iHeartRadio"
+      "AppName": "iHeartRadio",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "1251992029",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "",
       "AppURLScheme": "Livio Music",
-      "AppName": "Livio Music"
+      "AppName": "Livio Music",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "966142320",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "",
       "AppURLScheme": "Line Music",
-      "AppName": "Line Music"
+      "AppName": "Line Music",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "300048137",
       "AppBundleId": "com.yourcompany.TestWithCustomTabs",
       "AppPackageName": "",
       "AppURLScheme": "accuweatherapp",
-      "AppName": "AccuWeather"
+      "AppName": "AccuWeather",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "825750395",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "",
       "AppURLScheme": "CitySeeker",
-      "AppName": "CitySeeker"
+      "AppName": "CitySeeker",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "330316698",
       "AppBundleId": "com.glympse.iphone.glympse",
       "AppPackageName": "com.glympse.android.glympse",
       "AppURLScheme": "glympse",
-      "AppName": "Glympse"
+      "AppName": "Glympse",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "820326185",
       "AppBundleId": "com.sygic.incar",
       "AppPackageName": "",
       "AppURLScheme": "com.sygic.incar",
-      "AppName": "Sygic Car Navigation"
+      "AppName": "Sygic Car Navigation",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "694588796",
       "AppBundleId": "com.hmo.HearMeOut",
       "AppPackageName": "com.hearmeout",
       "AppURLScheme": "hearmeout",
-      "AppName": "HearMeOut"
+      "AppName": "HearMeOut",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "284035177",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "com.pandora.android",
       "AppURLScheme": "",
-      "AppName": "Pandora"
+      "AppName": "Pandora",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "298307011",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "",
       "AppURLScheme": "Slaker Radio",
-      "AppName": "Slaker Radio"
+      "AppName": "Slaker Radio",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "907383542",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "",
       "AppURLScheme": "Dash Radio",
-      "AppName": "Dash Radio"
+      "AppName": "Dash Radio",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "321934718",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "",
       "AppURLScheme": "Wetter.de",
-      "AppName": "Wetter.de"
+      "AppName": "Wetter.de",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     },
     {
       "AppId": "327359689",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "com.creativeDNA.ntvuganda",
       "AppURLScheme": "",
-      "AppName": "NTV"
+      "AppName": "NTV",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     }
   ]
 }

@@ -25,7 +25,7 @@
       "AppId": "1251992029",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "",
-      "AppURLScheme": "Livio Music",
+      "AppURLScheme": "LivioMusic",
       "AppName": "Livio Music",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": ""
@@ -34,7 +34,7 @@
       "AppId": "966142320",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "",
-      "AppURLScheme": "Line Music",
+      "AppURLScheme": "LineMusic",
       "AppName": "Line Music",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": ""
@@ -97,7 +97,7 @@
       "AppId": "298307011",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "",
-      "AppURLScheme": "Slaker Radio",
+      "AppURLScheme": "SlakerRadio",
       "AppName": "Slaker Radio",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": ""
@@ -106,7 +106,7 @@
       "AppId": "907383542",
       "AppBundleId": "com.garmin.ios.apps.linkboxapp",
       "AppPackageName": "",
-      "AppURLScheme": "Dash Radio",
+      "AppURLScheme": "DashRadio",
       "AppName": "Dash Radio",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": ""

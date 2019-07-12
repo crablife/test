@@ -81,7 +81,7 @@
       "AppPackageName": "com.hearmeout",
       "AppURLScheme": "hearmeout",
       "AppName": "HearMeOut",
-      "SDLAppIdAndroid": "",
+      "SDLAppIdAndroid": "1622705836",
       "SDLAppIdiOS": "987772706"
     },
     {
@@ -123,11 +123,20 @@
     {
       "AppId": "327359689",
       "AppBundleId": "",
-      "AppPackageName": "com.creativeDNA.ntvuganda",
+      "AppPackageName": "de.lineas.lit.ntv.android",
       "AppURLScheme": "",
       "AppName": "NTV",
-      "SDLAppIdAndroid": "",
+      "SDLAppIdAndroid": "2594605148",
       "SDLAppIdiOS": ""
+    },
+    {
+      "AppId": "424074107",
+      "AppBundleId": "",
+      "AppPackageName": "com.wcities.eventseeker",
+      "AppURLScheme": "",
+      "AppName": "Eventseeker",
+      "SDLAppIdAndroid": "4062012675",
+      "SDLAppIdiOS": "3260118906"
     }
   ]
 }

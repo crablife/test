@@ -10,7 +10,7 @@
       "AppURLScheme": "com.waze.iphone",
       "AppName": "Waze",
       "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
+      "SDLAppIdiOS": "1333136227"
     },
     {
       "AppId": "290638154",
@@ -19,11 +19,11 @@
       "AppURLScheme": "com.clearchannel.iheartradio",
       "AppName": "iHeartRadio",
       "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
+      "SDLAppIdiOS": "673275955"
     },
     {
       "AppId": "1251992029",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "",
       "AppPackageName": "",
       "AppURLScheme": "LivioMusic",
       "AppName": "Livio Music",
@@ -32,7 +32,7 @@
     },
     {
       "AppId": "966142320",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "",
       "AppPackageName": "",
       "AppURLScheme": "LineMusic",
       "AppName": "Line Music",
@@ -46,16 +46,16 @@
       "AppURLScheme": "accuweatherapp",
       "AppName": "AccuWeather",
       "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
+      "SDLAppIdiOS": "3497653904"
     },
     {
       "AppId": "825750395",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "",
       "AppPackageName": "",
       "AppURLScheme": "CitySeeker",
       "AppName": "CitySeeker",
       "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
+      "SDLAppIdiOS": "3413796734"
     },
     {
       "AppId": "330316698",
@@ -73,7 +73,7 @@
       "AppURLScheme": "com.sygic.incar",
       "AppName": "Sygic Car Navigation",
       "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
+      "SDLAppIdiOS": "1797797493"
     },
     {
       "AppId": "694588796",
@@ -82,11 +82,11 @@
       "AppURLScheme": "hearmeout",
       "AppName": "HearMeOut",
       "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
+      "SDLAppIdiOS": "987772706"
     },
     {
       "AppId": "284035177",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "",
       "AppPackageName": "com.pandora.android",
       "AppURLScheme": "",
       "AppName": "Pandora",
@@ -95,16 +95,16 @@
     },
     {
       "AppId": "298307011",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "",
       "AppPackageName": "",
       "AppURLScheme": "SlakerRadio",
       "AppName": "Slaker Radio",
       "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
+      "SDLAppIdiOS": "317871606"
     },
     {
       "AppId": "907383542",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "",
       "AppPackageName": "",
       "AppURLScheme": "DashRadio",
       "AppName": "Dash Radio",
@@ -113,7 +113,7 @@
     },
     {
       "AppId": "321934718",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "",
       "AppPackageName": "",
       "AppURLScheme": "Wetter.de",
       "AppName": "Wetter.de",
@@ -122,7 +122,7 @@
     },
     {
       "AppId": "327359689",
-      "AppBundleId": "com.garmin.ios.apps.linkboxapp",
+      "AppBundleId": "",
       "AppPackageName": "com.creativeDNA.ntvuganda",
       "AppURLScheme": "",
       "AppName": "NTV",

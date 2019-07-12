@@ -15,7 +15,7 @@
     {
       "AppId": "290638154",
       "AppBundleId": "com.clearchannel.iheartradio",
-      "AppPackageName": "com.paperless.iheart",
+      "AppPackageName": "com.clearchannel.iheartradio.controller",
       "AppURLScheme": "com.clearchannel.iheartradio",
       "AppName": "iHeartRadio",
       "SDLAppIdAndroid": "",

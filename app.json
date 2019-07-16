@@ -37,7 +37,7 @@
       "AppURLScheme": "linemusic",
       "AppName": "Line Music",
       "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
+      "SDLAppIdiOS": "17501165-930c-4f64-ad50-5db1d151e233"
     },
     {
       "AppId": "300048137",
@@ -136,7 +136,7 @@
       "AppURLScheme": "slacker",
       "AppName": "LiveXLive",
       "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
+      "SDLAppIdiOS": "317871606"
     }
   ]
 }

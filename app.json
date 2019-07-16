@@ -34,7 +34,7 @@
       "AppId": "966142320",
       "AppBundleId": "",
       "AppPackageName": "",
-      "AppURLScheme": "LineMusic",
+      "AppURLScheme": "linemusic",
       "AppName": "Line Music",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": ""
@@ -52,7 +52,7 @@
       "AppId": "825750395",
       "AppBundleId": "",
       "AppPackageName": "",
-      "AppURLScheme": "com.wcities.cityseekrapp",
+      "AppURLScheme": "cityseekerMySpin-V2p",
       "AppName": "CitySeeker",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": "3413796734"
@@ -88,19 +88,10 @@
       "AppId": "284035177",
       "AppBundleId": "",
       "AppPackageName": "com.pandora.android",
-      "AppURLScheme": "",
+      "AppURLScheme": "wazepandora",
       "AppName": "Pandora",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": ""
-    },
-    {
-      "AppId": "298307011",
-      "AppBundleId": "",
-      "AppPackageName": "",
-      "AppURLScheme": "SlakerRadio",
-      "AppName": "Slaker Radio",
-      "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": "317871606"
     },
     {
       "AppId": "907383542",
@@ -142,7 +133,7 @@
       "AppId": "298307011",
       "AppBundleId": "",
       "AppPackageName": "",
-      "AppURLScheme": "",
+      "AppURLScheme": "slacker",
       "AppName": "LiveXLive",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": ""

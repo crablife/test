@@ -52,7 +52,7 @@
       "AppId": "825750395",
       "AppBundleId": "",
       "AppPackageName": "",
-      "AppURLScheme": "CitySeeker",
+      "AppURLScheme": "com.wcities.cityseekrapp",
       "AppName": "CitySeeker",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": "3413796734"
@@ -106,7 +106,7 @@
       "AppId": "907383542",
       "AppBundleId": "",
       "AppPackageName": "",
-      "AppURLScheme": "DashRadio",
+      "AppURLScheme": "dashradio",
       "AppName": "Dash Radio",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": ""
@@ -133,10 +133,19 @@
       "AppId": "424074107",
       "AppBundleId": "",
       "AppPackageName": "com.wcities.eventseeker",
-      "AppURLScheme": "",
+      "AppURLScheme": "com.wcities.eventseekrapp",
       "AppName": "Eventseeker",
       "SDLAppIdAndroid": "4062012675",
       "SDLAppIdiOS": "3260118906"
+    },
+    {
+      "AppId": "298307011",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "",
+      "AppName": "LiveXLive",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     }
   ]
 }

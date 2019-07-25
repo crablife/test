@@ -5,7 +5,7 @@
   "SDLApps": [
     {
       "AppId": "323229106",
-      "AppBundleId": "com.waze.iphone",
+      "AppBundleId": "",
       "AppPackageName": "",
       "AppURLScheme": "com.waze.iphone",
       "AppName": "Waze",
@@ -14,7 +14,7 @@
     },
     {
       "AppId": "290638154",
-      "AppBundleId": "com.clearchannel.iheartradio",
+      "AppBundleId": "",
       "AppPackageName": "com.clearchannel.iheartradio.controller",
       "AppURLScheme": "com.clearchannel.iheartradio",
       "AppName": "iHeartRadio",
@@ -28,7 +28,7 @@
       "AppURLScheme": "",
       "AppName": "Livio Music",
       "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
+      "SDLAppIdiOS": "317871606"
     },
     {
       "AppId": "966142320",
@@ -64,11 +64,11 @@
       "AppURLScheme": "glympse",
       "AppName": "Glympse",
       "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
+      "SDLAppIdiOS": "1211721430"
     },
     {
       "AppId": "820326185",
-      "AppBundleId": "com.sygic.incar",
+      "AppBundleId": "",
       "AppPackageName": "",
       "AppURLScheme": "com.sygic.incar",
       "AppName": "Sygic Car Navigation",
@@ -77,7 +77,7 @@
     },
     {
       "AppId": "694588796",
-      "AppBundleId": "com.hmo.HearMeOut",
+      "AppBundleId": "",
       "AppPackageName": "com.hearmeout",
       "AppURLScheme": "hearmeout",
       "AppName": "HearMeOut",
@@ -90,24 +90,6 @@
       "AppPackageName": "com.pandora.android",
       "AppURLScheme": "wazepandora",
       "AppName": "Pandora",
-      "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
-    },
-    {
-      "AppId": "907383542",
-      "AppBundleId": "",
-      "AppPackageName": "",
-      "AppURLScheme": "dashradio",
-      "AppName": "Dash Radio",
-      "SDLAppIdAndroid": "",
-      "SDLAppIdiOS": ""
-    },
-    {
-      "AppId": "321934718",
-      "AppBundleId": "",
-      "AppPackageName": "",
-      "AppURLScheme": "Wetterde",
-      "AppName": "Wetter.de",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": ""
     },

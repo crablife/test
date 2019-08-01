@@ -119,6 +119,24 @@
       "AppName": "LiveXLive",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": "317871606"
+    },
+    {
+      "AppId": "288087905",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "sticher",
+      "AppName": "Stitcher",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "3650968914"
+    },
+    {
+      "AppId": "657878530",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "w3w",
+      "AppName": "what3words",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "498fdfd034"
     }
   ]
 }

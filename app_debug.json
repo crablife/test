@@ -1,0 +1,142 @@
+{
+  "Version": "0.1.1",
+  "HashValue": "hhhhh",
+  "Locale": "tw",
+  "SDLApps": [
+    {
+      "AppId": "323229106",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "com.waze.iphone",
+      "AppName": "Waze",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "1333136227"
+    },
+    {
+      "AppId": "290638154",
+      "AppBundleId": "",
+      "AppPackageName": "com.clearchannel.iheartradio.controller",
+      "AppURLScheme": "com.clearchannel.iheartradio",
+      "AppName": "iHeartRadio",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "673275955"
+    },
+    {
+      "AppId": "1251992029",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "",
+      "AppName": "Livio Music",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "317871606"
+    },
+    {
+      "AppId": "966142320",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "linemusic",
+      "AppName": "Line Music",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "17501165-930c-4f64-ad50-5db1d151e233"
+    },
+    {
+      "AppId": "300048137",
+      "AppBundleId": "com.yourcompany.TestWithCustomTabs",
+      "AppPackageName": "",
+      "AppURLScheme": "accuweatherapp",
+      "AppName": "AccuWeather",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "3497653904"
+    },
+    {
+      "AppId": "825750395",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "cityseekerMySpin-V2,com.wcities.cityseekrapp",
+      "AppName": "CitySeeker",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "3413796734"
+    },
+    {
+      "AppId": "330316698",
+      "AppBundleId": "com.glympse.iphone.glympse",
+      "AppPackageName": "com.glympse.android.glympse",
+      "AppURLScheme": "glympse",
+      "AppName": "Glympse",
+      "SDLAppIdAndroid": "922163676",
+      "SDLAppIdiOS": "1211721430"
+    },
+    {
+      "AppId": "820326185",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "com.sygic.incar",
+      "AppName": "Sygic Car Navigation",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "1797797493"
+    },
+    {
+      "AppId": "694588796",
+      "AppBundleId": "",
+      "AppPackageName": "com.hearmeout",
+      "AppURLScheme": "hearmeout",
+      "AppName": "HearMeOut",
+      "SDLAppIdAndroid": "1622705836",
+      "SDLAppIdiOS": "987772706"
+    },
+    {
+      "AppId": "284035177",
+      "AppBundleId": "",
+      "AppPackageName": "com.pandora.android",
+      "AppURLScheme": "wazepandora",
+      "AppName": "Pandora",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
+    },
+    {
+      "AppId": "327359689",
+      "AppBundleId": "",
+      "AppPackageName": "de.lineas.lit.ntv.android",
+      "AppURLScheme": "",
+      "AppName": "NTV",
+      "SDLAppIdAndroid": "2594605148",
+      "SDLAppIdiOS": ""
+    },
+    {
+      "AppId": "424074107",
+      "AppBundleId": "",
+      "AppPackageName": "com.wcities.eventseeker",
+      "AppURLScheme": "com.wcities.eventseekrapp",
+      "AppName": "Eventseeker",
+      "SDLAppIdAndroid": "4062012675",
+      "SDLAppIdiOS": "3260118906"
+    },
+    {
+      "AppId": "298307011",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "slacker",
+      "AppName": "LiveXLive",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "317871606"
+    },
+    {
+      "AppId": "288087905",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "stitcher",
+      "AppName": "Stitcher",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "3650968914"
+    },
+    {
+      "AppId": "657878530",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "w3w",
+      "AppName": "what3words",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": "498fdfd034"
+    }
+  ]
+}

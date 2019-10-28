@@ -119,6 +119,24 @@
       "AppName": "LiveXLive",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": "317871606"
+    },
+    {
+      "AppId": "555847992",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "carnavitime",
+      "AppName": "カーナビタイム",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
+    },
+    {
+      "AppId": "1468469241",
+      "AppBundleId": "",
+      "AppPackageName": "com.linecorp.clovaauto",
+      "AppURLScheme": "lineclovaatuo",
+      "AppName": "LINEカーナビ",
+      "SDLAppIdAndroid": "",
+      "SDLAppIdiOS": ""
     }
   ]
 }

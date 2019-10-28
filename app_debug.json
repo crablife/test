@@ -123,10 +123,10 @@
     {
       "AppId": "288087905",
       "AppBundleId": "",
-      "AppPackageName": "",
+      "AppPackageName": "com.stitcher.app",
       "AppURLScheme": "stitcher",
       "AppName": "Stitcher",
-      "SDLAppIdAndroid": "",
+      "SDLAppIdAndroid": "1405358847",
       "SDLAppIdiOS": "3650968914"
     },
     {

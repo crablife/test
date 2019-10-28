@@ -137,6 +137,15 @@
       "AppName": "what3words",
       "SDLAppIdAndroid": "",
       "SDLAppIdiOS": "498fdfd034"
+    },
+    {
+      "AppId": "1468469241",
+      "AppBundleId": "",
+      "AppPackageName": "",
+      "AppURLScheme": "lineclovaatuo",
+      "AppName": "LINEカーナビ",
+      "SDLAppIdAndroid": "241981462",
+      "SDLAppIdiOS": "1094586361"
     }
   ]
 }

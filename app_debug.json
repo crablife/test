@@ -141,10 +141,10 @@
     {
       "AppId": "1468469241",
       "AppBundleId": "",
-      "AppPackageName": "",
+      "AppPackageName": "com.linecorp.clovaauto",
       "AppURLScheme": "lineclovaauto",
       "AppName": "LINEカーナビ",
-      "SDLAppIdAndroid": "253245182",
+      "SDLAppIdAndroid": "",
       "SDLAppIdiOS": "35ad5585-a36d-42ed-956b-ca50f46b334c"
     }
   ]
